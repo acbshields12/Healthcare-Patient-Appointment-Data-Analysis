@@ -6,9 +6,9 @@ This project analyzes patient appointment data to identify no-show patterns, doc
 
 ## Dataset
 
-* 30+ patients
+* 300+ patients
 * 5 doctors
-* 150+ appointments
+* 300+ appointments
 
 ## Key Insights
 
