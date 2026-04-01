@@ -45,4 +45,4 @@ This project analyzes healthcare appointment data to identify no-show patterns, 
 
 ## 📁 DASHBOARD PREVIEW
 
-![](dashboard/dashboard.jpg)
+![](visualization/patient&appointment dash.jpg)
