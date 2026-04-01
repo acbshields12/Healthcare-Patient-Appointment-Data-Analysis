@@ -42,3 +42,7 @@ This project analyzes healthcare appointment data to identify no-show patterns, 
 * DAX calculations
 * Data visualization
 * Business insight generation
+
+## 📁 DASHBOARD PREVIEW
+
+![](dashboard/dashboard.jpg)
