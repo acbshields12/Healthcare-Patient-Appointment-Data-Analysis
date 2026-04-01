@@ -1,23 +1,44 @@
-# 🏥 Healthcare Appointment & No-Show Analysis
+# 🏥 Patient Appointment & No-Show Analysis Dashboard
 
-## Overview
+## 📌 Overview
 
-This project analyzes patient appointment data to identify no-show patterns, doctor workload, and revenue loss.
+This project analyzes healthcare appointment data to identify no-show patterns, revenue loss, and operational performance.
 
-## Dataset
+## 📊 Tools Used
 
-* 300+ patients
-* 5 doctors
-* 300+ appointments
+* Power BI
+* MySQL
+* Excel
 
-## Key Insights
+## 📈 Key Metrics
 
-* Calculated no-show rate
-* Identified revenue loss due to missed appointments
-* Analyzed doctor workload and department demand
+* Total Appointments
+* No-Show Rate (%)
+* Revenue Lost from No-Shows
+* Completed Revenue
 
-## Skills
+## 🔍 Key Insights
 
-* SQL joins and aggregations
-* Data generation and cleaning
-* Dashboard creation in Excel
+* Identified high no-show rates impacting revenue
+* Highlighted busiest doctors and departments
+* Revealed appointment trends over time
+
+## 🎨 Dashboard Features
+
+* KPI tiles for quick insights
+* Interactive filters (doctor, city, department)
+* Clean, minimalist layout
+* Professional formatting and color consistency
+
+## 📁 Files Included
+
+* Dataset (CSV)
+* Power BI Dashboard (.pbix)
+* Dashboard Screenshot
+
+## 🚀 Skills Demonstrated
+
+* Data modeling
+* DAX calculations
+* Data visualization
+* Business insight generation
