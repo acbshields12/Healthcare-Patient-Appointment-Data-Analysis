@@ -46,3 +46,13 @@ This project analyzes healthcare appointment data to identify no-show patterns, 
 ## 📁 DASHBOARD PREVIEW
 
 ![](visualization/dash.jpg)
+
+
+---
+
+## 👤 Author
+
+Adriane Clark Ballesteros-Shields  
+Healthcare Data Analyst Trainee
+
+---
