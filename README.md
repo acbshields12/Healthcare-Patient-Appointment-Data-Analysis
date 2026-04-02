@@ -52,7 +52,9 @@ This project analyzes healthcare appointment data to identify no-show patterns, 
 
 ## 👤 Author
 
-Adriane Clark Ballesteros-Shields  
+Adriane Clark Ballesteros  
 Healthcare Data Analyst Trainee
+
+* 🔗 GitHub: https://github.com/acbshields12
 
 ---
