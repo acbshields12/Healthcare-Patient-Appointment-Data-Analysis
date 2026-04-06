@@ -10,6 +10,20 @@ This project analyzes healthcare appointment data to identify no-show patterns, 
 * MySQL
 * Excel
 
+---
+
+## 🤖 Use of AI
+
+AI tools were used to assist in:
+
+* Created realistic synthetic healthcare dataset
+* Debugging errors in SQL and DAX
+* Structuring calculations for Power BI
+
+All outputs were manually validated and refined to ensure accuracy and reliability.
+
+---
+
 ## 📈 Key Metrics
 
 * Total Appointments
