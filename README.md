@@ -3,7 +3,7 @@
 
 ## 📁 DASHBOARD PREVIEW
 
-![](inisghts/dash.jpg)
+![](insights/dash.jpg)
 
 
 ---
