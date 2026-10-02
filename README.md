@@ -1,5 +1,12 @@
 # 🏥 Patient Appointment & No-Show Analysis Dashboard
+---
 
+## 📁 DASHBOARD PREVIEW
+
+![](inisghts/dash.jpg)
+
+
+---
 ## 📌 Overview
 
 This project analyzes healthcare appointment data to identify no-show patterns, revenue loss, and operational performance.
@@ -57,12 +64,7 @@ All outputs were manually validated and refined to ensure accuracy and reliabili
 * Data visualization
 * Business insight generation
 
-## 📁 DASHBOARD PREVIEW
 
-![](visualization/dash.jpg)
-
-
----
 
 ## 👤 Author
 
