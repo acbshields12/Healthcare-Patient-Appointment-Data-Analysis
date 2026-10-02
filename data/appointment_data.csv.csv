@@ -1,0 +1,351 @@
+﻿appointment_id,patient_id,doctor,department,appointment_date,status,fee
+A001,P098,Dr. Michael Lee,Dermatology,3/2/2026,No-Show,119
+A002,P060,Dr. Sarah Kim,Cardiology,3/13/2026,Cancelled,285
+A003,P051,Dr. Michael Lee,Physical Medicine and Rehabilitation,3/10/2026,No-Show,274
+A004,P039,Dr. Michael Lee,Pharmacy,3/21/2026,No-Show,168
+A005,P062,Dr. Sarah Kim,Psychiatry and Mental Health,3/16/2026,Cancelled,75
+A006,P033,Dr. Sarah Kim,Physical Medicine and Rehabilitation,3/20/2026,Cancelled,283
+A007,P074,Dr. Emily Watson,Emergency Medicine,3/8/2026,Cancelled,100
+A008,P019,Dr. David Park,Dermatology,3/10/2026,No-Show,132
+A009,P025,Dr. Michael Lee,General Medicine,3/27/2026,No-Show,135
+A010,P099,Dr. James Carter,Neurology,3/27/2026,No-Show,262
+A011,P081,Dr. Sarah Kim,Neurology,3/2/2026,Completed,190
+A012,P018,Dr. Michael Lee,Dermatology,3/5/2026,Completed,62
+A013,P091,Dr. Michael Lee,Neurology,3/27/2026,No-Show,186
+A014,P058,Dr. James Carter,Psychiatry and Mental Health,3/30/2026,No-Show,264
+A015,P026,Dr. Michael Lee,Physical Medicine and Rehabilitation,3/29/2026,Completed,159
+A016,P028,Dr. Michael Lee,Neurology,3/28/2026,No-Show,112
+A017,P047,Dr. David Park,Oncology,3/1/2026,No-Show,193
+A018,P069,Dr. Emily Watson,Dermatology,3/29/2026,Cancelled,89
+A019,P029,Dr. David Park,Orthopedics,3/11/2026,No-Show,209
+A020,P020,Dr. James Carter,Cardiology,3/11/2026,Completed,203
+A021,P074,Dr. David Park,Physical Medicine and Rehabilitation,3/27/2026,No-Show,140
+A022,P099,Dr. Sarah Kim,Physical Medicine and Rehabilitation,3/18/2026,Completed,240
+A023,P015,Dr. Emily Watson,Dermatology,3/22/2026,Completed,109
+A024,P058,Dr. Emily Watson,Pharmacy,3/25/2026,Completed,201
+A025,P098,Dr. Sarah Kim,Emergency Medicine,3/6/2026,No-Show,50
+A026,P008,Dr. Sarah Kim,Physical Medicine and Rehabilitation,3/24/2026,Completed,173
+A027,P096,Dr. James Carter,Emergency Medicine,3/12/2026,Cancelled,199
+A028,P064,Dr. James Carter,Cardiology,3/9/2026,Cancelled,238
+A029,P089,Dr. Michael Lee,Oncology,3/8/2026,Completed,266
+A030,P091,Dr. David Park,Neurology,3/18/2026,No-Show,268
+A031,P090,Dr. Emily Watson,Orthopedics,3/3/2026,No-Show,215
+A032,P069,Dr. James Carter,Psychiatry and Mental Health,3/11/2026,Completed,85
+A033,P098,Dr. Sarah Kim,Cardiology,3/27/2026,Completed,177
+A034,P088,Dr. Michael Lee,Psychiatry and Mental Health,3/7/2026,No-Show,115
+A035,P070,Dr. James Carter,Pharmacy,3/23/2026,Cancelled,290
+A036,P036,Dr. Michael Lee,Pharmacy,3/26/2026,No-Show,158
+A037,P095,Dr. Emily Watson,General Medicine,3/9/2026,Completed,226
+A038,P056,Dr. Sarah Kim,Dermatology,3/10/2026,Cancelled,176
+A039,P070,Dr. Emily Watson,Neurology,3/15/2026,Completed,155
+A040,P070,Dr. Emily Watson,Cardiology,3/14/2026,No-Show,80
+A041,P019,Dr. Emily Watson,Physical Medicine and Rehabilitation,3/12/2026,Cancelled,266
+A042,P038,Dr. David Park,Oncology,3/1/2026,No-Show,294
+A043,P065,Dr. Sarah Kim,Pharmacy,3/24/2026,Cancelled,52
+A044,P022,Dr. Emily Watson,Emergency Medicine,3/5/2026,Completed,204
+A045,P063,Dr. Emily Watson,Psychiatry and Mental Health,3/24/2026,Cancelled,166
+A046,P027,Dr. Emily Watson,Oncology,3/15/2026,Completed,236
+A047,P071,Dr. Sarah Kim,General Medicine,3/25/2026,No-Show,181
+A048,P018,Dr. James Carter,Dermatology,3/10/2026,No-Show,180
+A049,P068,Dr. David Park,Pharmacy,3/18/2026,No-Show,150
+A050,P065,Dr. Michael Lee,Neurology,3/4/2026,Completed,256
+A051,P017,Dr. Sarah Kim,Emergency Medicine,3/29/2026,Completed,246
+A052,P073,Dr. James Carter,Neurology,3/23/2026,Completed,185
+A053,P069,Dr. Emily Watson,Psychiatry and Mental Health,3/22/2026,Cancelled,140
+A054,P092,Dr. James Carter,Dermatology,3/18/2026,No-Show,210
+A055,P056,Dr. Emily Watson,Physical Medicine and Rehabilitation,3/6/2026,Completed,95
+A056,P068,Dr. Sarah Kim,Dermatology,3/30/2026,Completed,250
+A057,P039,Dr. Sarah Kim,General Medicine,3/27/2026,Completed,300
+A058,P067,Dr. James Carter,Oncology,3/4/2026,Cancelled,131
+A059,P083,Dr. Emily Watson,Pharmacy,3/26/2026,Cancelled,239
+A060,P087,Dr. Emily Watson,Emergency Medicine,3/8/2026,Completed,133
+A061,P053,Dr. David Park,Oncology,3/25/2026,No-Show,75
+A062,P017,Dr. James Carter,Pharmacy,3/29/2026,Cancelled,214
+A063,P099,Dr. Emily Watson,General Medicine,3/22/2026,Cancelled,121
+A064,P027,Dr. David Park,Pharmacy,3/1/2026,Completed,73
+A065,P018,Dr. Sarah Kim,Neurology,3/17/2026,Cancelled,169
+A066,P054,Dr. Michael Lee,Pharmacy,3/4/2026,No-Show,194
+A067,P078,Dr. Sarah Kim,Orthopedics,3/21/2026,Completed,235
+A068,P079,Dr. David Park,Emergency Medicine,3/4/2026,Completed,201
+A069,P050,Dr. James Carter,Neurology,3/2/2026,Cancelled,215
+A070,P093,Dr. James Carter,Physical Medicine and Rehabilitation,3/21/2026,Completed,135
+A071,P034,Dr. Michael Lee,Neurology,3/10/2026,No-Show,290
+A072,P004,Dr. Emily Watson,General Medicine,3/6/2026,Cancelled,274
+A073,P012,Dr. David Park,Physical Medicine and Rehabilitation,3/13/2026,Cancelled,84
+A074,P021,Dr. Sarah Kim,Physical Medicine and Rehabilitation,3/4/2026,Completed,120
+A075,P045,Dr. David Park,Pharmacy,3/28/2026,Completed,279
+A076,P004,Dr. Emily Watson,Orthopedics,3/22/2026,Cancelled,114
+A077,P093,Dr. Emily Watson,General Medicine,3/2/2026,Cancelled,162
+A078,P100,Dr. Michael Lee,General Medicine,3/29/2026,Completed,112
+A079,P095,Dr. James Carter,Emergency Medicine,3/1/2026,Cancelled,126
+A080,P046,Dr. Sarah Kim,Pharmacy,3/11/2026,Cancelled,292
+A081,P089,Dr. James Carter,Neurology,3/1/2026,No-Show,208
+A082,P086,Dr. David Park,Emergency Medicine,3/12/2026,Cancelled,214
+A083,P068,Dr. Emily Watson,Psychiatry and Mental Health,3/7/2026,Completed,265
+A084,P062,Dr. David Park,Oncology,3/12/2026,Completed,183
+A085,P072,Dr. David Park,Oncology,3/6/2026,Cancelled,190
+A086,P073,Dr. Emily Watson,Orthopedics,3/14/2026,Completed,300
+A087,P091,Dr. James Carter,Orthopedics,3/12/2026,Cancelled,212
+A088,P020,Dr. Michael Lee,Oncology,3/11/2026,Completed,63
+A089,P093,Dr. Michael Lee,Orthopedics,3/29/2026,Cancelled,90
+A090,P012,Dr. Michael Lee,Psychiatry and Mental Health,3/1/2026,Cancelled,156
+A091,P039,Dr. Sarah Kim,Oncology,3/22/2026,No-Show,281
+A092,P038,Dr. James Carter,Emergency Medicine,3/30/2026,No-Show,265
+A093,P044,Dr. Sarah Kim,Oncology,3/17/2026,Completed,238
+A094,P092,Dr. Sarah Kim,Dermatology,3/26/2026,Completed,256
+A095,P100,Dr. Sarah Kim,Oncology,3/28/2026,Cancelled,146
+A096,P097,Dr. James Carter,Neurology,3/7/2026,Completed,235
+A097,P067,Dr. James Carter,Orthopedics,3/5/2026,Completed,169
+A098,P050,Dr. Michael Lee,Neurology,3/20/2026,Completed,208
+A099,P039,Dr. James Carter,Physical Medicine and Rehabilitation,3/26/2026,No-Show,60
+A100,P073,Dr. Emily Watson,Psychiatry and Mental Health,3/6/2026,Completed,276
+A101,P003,Dr. Emily Watson,Psychiatry and Mental Health,3/6/2026,Cancelled,281
+A102,P056,Dr. Emily Watson,Dermatology,3/23/2026,No-Show,197
+A103,P062,Dr. Sarah Kim,Physical Medicine and Rehabilitation,3/30/2026,No-Show,203
+A104,P031,Dr. Emily Watson,Emergency Medicine,3/7/2026,Cancelled,92
+A105,P073,Dr. James Carter,Pharmacy,3/20/2026,Cancelled,174
+A106,P059,Dr. Sarah Kim,Dermatology,3/3/2026,Completed,231
+A107,P016,Dr. Sarah Kim,Pharmacy,3/2/2026,No-Show,144
+A108,P044,Dr. Sarah Kim,Physical Medicine and Rehabilitation,3/26/2026,Cancelled,210
+A109,P019,Dr. Emily Watson,Cardiology,3/23/2026,Cancelled,280
+A110,P002,Dr. James Carter,Psychiatry and Mental Health,3/18/2026,Cancelled,154
+A111,P042,Dr. Michael Lee,Emergency Medicine,3/30/2026,No-Show,299
+A112,P066,Dr. Sarah Kim,Emergency Medicine,3/21/2026,Cancelled,281
+A113,P099,Dr. James Carter,Pharmacy,3/5/2026,No-Show,134
+A114,P091,Dr. James Carter,Orthopedics,3/11/2026,Completed,295
+A115,P088,Dr. Michael Lee,Psychiatry and Mental Health,3/28/2026,No-Show,242
+A116,P019,Dr. Emily Watson,Orthopedics,3/16/2026,No-Show,137
+A117,P006,Dr. Sarah Kim,Neurology,3/7/2026,Completed,265
+A118,P061,Dr. Sarah Kim,Cardiology,3/14/2026,No-Show,298
+A119,P078,Dr. James Carter,Neurology,3/5/2026,No-Show,133
+A120,P048,Dr. Emily Watson,Psychiatry and Mental Health,3/14/2026,Completed,88
+A121,P018,Dr. David Park,Psychiatry and Mental Health,3/9/2026,Cancelled,110
+A122,P088,Dr. Sarah Kim,Neurology,3/1/2026,Completed,270
+A123,P088,Dr. David Park,Dermatology,3/27/2026,No-Show,92
+A124,P083,Dr. James Carter,Physical Medicine and Rehabilitation,3/2/2026,Completed,290
+A125,P052,Dr. Sarah Kim,Pharmacy,3/2/2026,No-Show,149
+A126,P038,Dr. David Park,Oncology,3/4/2026,No-Show,161
+A127,P001,Dr. James Carter,Orthopedics,3/28/2026,Completed,141
+A128,P073,Dr. Emily Watson,Psychiatry and Mental Health,3/29/2026,Cancelled,294
+A129,P007,Dr. Emily Watson,Neurology,3/13/2026,Cancelled,236
+A130,P042,Dr. James Carter,Psychiatry and Mental Health,3/26/2026,No-Show,265
+A131,P070,Dr. Emily Watson,Emergency Medicine,3/14/2026,Completed,118
+A132,P084,Dr. James Carter,Psychiatry and Mental Health,3/12/2026,No-Show,187
+A133,P062,Dr. Sarah Kim,Pharmacy,3/29/2026,Completed,215
+A134,P084,Dr. Sarah Kim,Physical Medicine and Rehabilitation,3/11/2026,No-Show,296
+A135,P078,Dr. Emily Watson,Cardiology,3/4/2026,No-Show,225
+A136,P100,Dr. Sarah Kim,Emergency Medicine,3/13/2026,Cancelled,220
+A137,P093,Dr. Michael Lee,Emergency Medicine,3/8/2026,Cancelled,229
+A138,P087,Dr. Michael Lee,Oncology,3/14/2026,Cancelled,158
+A139,P033,Dr. Emily Watson,Dermatology,3/20/2026,Completed,52
+A140,P083,Dr. Emily Watson,Emergency Medicine,3/26/2026,No-Show,147
+A141,P089,Dr. Emily Watson,Orthopedics,3/18/2026,Cancelled,124
+A142,P036,Dr. Sarah Kim,Cardiology,3/18/2026,No-Show,225
+A143,P100,Dr. James Carter,Oncology,3/16/2026,No-Show,91
+A144,P073,Dr. Emily Watson,Cardiology,3/5/2026,Cancelled,165
+A145,P031,Dr. Emily Watson,Oncology,3/1/2026,No-Show,130
+A146,P006,Dr. Sarah Kim,Orthopedics,3/7/2026,No-Show,252
+A147,P037,Dr. James Carter,Neurology,3/26/2026,Completed,128
+A148,P026,Dr. Emily Watson,Oncology,3/29/2026,No-Show,147
+A149,P031,Dr. Sarah Kim,Pharmacy,3/24/2026,Completed,95
+A150,P025,Dr. Michael Lee,Emergency Medicine,3/6/2026,No-Show,266
+A151,P043,Dr. Emily Watson,Orthopedics,3/11/2026,Cancelled,184
+A152,P039,Dr. Emily Watson,Psychiatry and Mental Health,3/28/2026,Cancelled,280
+A153,P040,Dr. Emily Watson,Cardiology,3/24/2026,No-Show,217
+A154,P072,Dr. Michael Lee,Cardiology,3/27/2026,No-Show,226
+A155,P075,Dr. Sarah Kim,Physical Medicine and Rehabilitation,3/17/2026,Cancelled,247
+A156,P036,Dr. David Park,Dermatology,3/21/2026,Cancelled,107
+A157,P017,Dr. Sarah Kim,Neurology,3/2/2026,Completed,163
+A158,P056,Dr. James Carter,Dermatology,3/6/2026,Completed,193
+A159,P065,Dr. Michael Lee,Physical Medicine and Rehabilitation,3/28/2026,Completed,226
+A160,P009,Dr. Michael Lee,Cardiology,3/7/2026,No-Show,66
+A161,P029,Dr. Emily Watson,Psychiatry and Mental Health,3/1/2026,No-Show,153
+A162,P058,Dr. Michael Lee,Orthopedics,3/26/2026,No-Show,104
+A163,P085,Dr. James Carter,Neurology,3/4/2026,Cancelled,137
+A164,P031,Dr. Sarah Kim,Pharmacy,3/9/2026,Cancelled,234
+A165,P072,Dr. David Park,Emergency Medicine,3/21/2026,Cancelled,99
+A166,P077,Dr. Sarah Kim,Physical Medicine and Rehabilitation,3/18/2026,Cancelled,173
+A167,P100,Dr. Michael Lee,Cardiology,3/30/2026,Cancelled,295
+A168,P008,Dr. Sarah Kim,Orthopedics,3/3/2026,Completed,254
+A169,P076,Dr. David Park,Emergency Medicine,3/25/2026,No-Show,251
+A170,P046,Dr. James Carter,Dermatology,3/17/2026,Completed,135
+A171,P021,Dr. Sarah Kim,Dermatology,3/21/2026,Cancelled,279
+A172,P049,Dr. James Carter,Cardiology,3/24/2026,Completed,228
+A173,P070,Dr. David Park,Emergency Medicine,3/28/2026,Cancelled,107
+A174,P078,Dr. David Park,Pharmacy,3/24/2026,Completed,87
+A175,P072,Dr. Sarah Kim,Neurology,3/29/2026,Completed,127
+A176,P034,Dr. Emily Watson,Neurology,3/13/2026,No-Show,129
+A177,P069,Dr. Michael Lee,Psychiatry and Mental Health,3/11/2026,No-Show,144
+A178,P006,Dr. Sarah Kim,General Medicine,3/25/2026,No-Show,114
+A179,P055,Dr. James Carter,General Medicine,3/4/2026,Cancelled,238
+A180,P090,Dr. Michael Lee,Psychiatry and Mental Health,3/18/2026,No-Show,199
+A181,P062,Dr. James Carter,General Medicine,3/29/2026,No-Show,202
+A182,P096,Dr. Emily Watson,Dermatology,3/3/2026,Cancelled,114
+A183,P027,Dr. Michael Lee,Orthopedics,3/24/2026,Completed,227
+A184,P093,Dr. James Carter,Orthopedics,3/29/2026,Completed,159
+A185,P056,Dr. Michael Lee,Cardiology,3/15/2026,No-Show,115
+A186,P051,Dr. James Carter,General Medicine,3/19/2026,No-Show,239
+A187,P046,Dr. Sarah Kim,Cardiology,3/10/2026,No-Show,116
+A188,P017,Dr. Michael Lee,Pharmacy,3/22/2026,No-Show,79
+A189,P045,Dr. Sarah Kim,Physical Medicine and Rehabilitation,3/27/2026,Completed,185
+A190,P067,Dr. Michael Lee,Oncology,3/11/2026,Cancelled,174
+A191,P092,Dr. Michael Lee,Pharmacy,3/16/2026,No-Show,270
+A192,P001,Dr. Michael Lee,Orthopedics,3/16/2026,Cancelled,54
+A193,P020,Dr. Emily Watson,Neurology,3/27/2026,Cancelled,253
+A194,P070,Dr. Sarah Kim,Dermatology,3/23/2026,Cancelled,177
+A195,P047,Dr. Emily Watson,Physical Medicine and Rehabilitation,3/20/2026,Completed,220
+A196,P060,Dr. David Park,Cardiology,3/22/2026,Cancelled,104
+A197,P086,Dr. Emily Watson,Emergency Medicine,3/20/2026,No-Show,228
+A198,P063,Dr. David Park,Physical Medicine and Rehabilitation,3/29/2026,Completed,174
+A199,P068,Dr. Emily Watson,Pharmacy,3/15/2026,Completed,80
+A200,P059,Dr. Emily Watson,Emergency Medicine,3/6/2026,Completed,79
+A201,P035,Dr. Emily Watson,Physical Medicine and Rehabilitation,3/6/2026,No-Show,233
+A202,P004,Dr. Sarah Kim,Cardiology,3/23/2026,Completed,133
+A203,P028,Dr. Emily Watson,Emergency Medicine,3/4/2026,Completed,119
+A204,P020,Dr. Sarah Kim,Physical Medicine and Rehabilitation,3/10/2026,Completed,145
+A205,P015,Dr. Sarah Kim,Orthopedics,3/27/2026,Cancelled,268
+A206,P063,Dr. Michael Lee,Psychiatry and Mental Health,3/4/2026,Completed,85
+A207,P009,Dr. David Park,Emergency Medicine,3/22/2026,Completed,81
+A208,P009,Dr. Michael Lee,Oncology,3/13/2026,No-Show,134
+A209,P054,Dr. James Carter,Pharmacy,3/10/2026,Cancelled,226
+A210,P097,Dr. James Carter,Psychiatry and Mental Health,3/8/2026,No-Show,72
+A211,P004,Dr. Michael Lee,Physical Medicine and Rehabilitation,3/8/2026,Completed,235
+A212,P069,Dr. Michael Lee,Orthopedics,3/18/2026,Completed,80
+A213,P025,Dr. Michael Lee,Neurology,3/22/2026,Completed,66
+A214,P062,Dr. Emily Watson,Orthopedics,3/23/2026,No-Show,134
+A215,P029,Dr. James Carter,Physical Medicine and Rehabilitation,3/14/2026,Completed,72
+A216,P015,Dr. James Carter,Cardiology,3/19/2026,Cancelled,226
+A217,P060,Dr. David Park,Emergency Medicine,3/9/2026,No-Show,290
+A218,P023,Dr. James Carter,Neurology,3/26/2026,Cancelled,122
+A219,P057,Dr. Emily Watson,Oncology,3/26/2026,No-Show,229
+A220,P073,Dr. James Carter,Orthopedics,3/28/2026,Completed,219
+A221,P084,Dr. David Park,Dermatology,3/18/2026,Cancelled,140
+A222,P081,Dr. David Park,Oncology,3/4/2026,No-Show,152
+A223,P010,Dr. James Carter,Oncology,3/18/2026,No-Show,113
+A224,P033,Dr. Michael Lee,Physical Medicine and Rehabilitation,3/28/2026,No-Show,127
+A225,P002,Dr. Sarah Kim,Psychiatry and Mental Health,3/15/2026,No-Show,228
+A226,P085,Dr. Michael Lee,Emergency Medicine,3/9/2026,Cancelled,178
+A227,P024,Dr. David Park,Oncology,3/18/2026,Cancelled,73
+A228,P094,Dr. Michael Lee,Oncology,3/16/2026,Completed,270
+A229,P083,Dr. Michael Lee,Neurology,3/6/2026,No-Show,226
+A230,P041,Dr. Michael Lee,Dermatology,3/5/2026,No-Show,194
+A231,P030,Dr. Sarah Kim,Pharmacy,3/17/2026,No-Show,201
+A232,P092,Dr. Emily Watson,Pharmacy,3/3/2026,Cancelled,294
+A233,P001,Dr. Sarah Kim,Emergency Medicine,3/4/2026,No-Show,201
+A234,P055,Dr. James Carter,General Medicine,3/17/2026,Cancelled,209
+A235,P095,Dr. David Park,Cardiology,3/1/2026,Completed,133
+A236,P061,Dr. Michael Lee,Pharmacy,3/25/2026,Completed,103
+A237,P095,Dr. David Park,Physical Medicine and Rehabilitation,3/27/2026,Completed,226
+A238,P032,Dr. Emily Watson,Pharmacy,3/5/2026,Cancelled,62
+A239,P045,Dr. Sarah Kim,Oncology,3/7/2026,Cancelled,69
+A240,P044,Dr. Emily Watson,Neurology,3/9/2026,Cancelled,128
+A241,P096,Dr. Michael Lee,Physical Medicine and Rehabilitation,3/19/2026,Completed,260
+A242,P052,Dr. James Carter,Cardiology,3/26/2026,Completed,272
+A243,P007,Dr. Michael Lee,Pharmacy,3/24/2026,No-Show,282
+A244,P006,Dr. Emily Watson,Neurology,3/15/2026,Cancelled,205
+A245,P022,Dr. Sarah Kim,Oncology,3/28/2026,Completed,114
+A246,P004,Dr. James Carter,Pharmacy,3/28/2026,Cancelled,283
+A247,P074,Dr. Michael Lee,General Medicine,3/25/2026,Cancelled,242
+A248,P056,Dr. Sarah Kim,Orthopedics,3/21/2026,No-Show,216
+A249,P043,Dr. James Carter,Emergency Medicine,3/7/2026,Completed,84
+A250,P057,Dr. James Carter,Dermatology,3/23/2026,No-Show,111
+A251,P096,Dr. James Carter,Neurology,3/2/2026,No-Show,175
+A252,P029,Dr. David Park,Psychiatry and Mental Health,3/13/2026,No-Show,276
+A253,P038,Dr. Emily Watson,Emergency Medicine,3/5/2026,Cancelled,145
+A254,P052,Dr. David Park,Physical Medicine and Rehabilitation,3/26/2026,Completed,263
+A255,P034,Dr. Michael Lee,Pharmacy,3/10/2026,Completed,235
+A256,P068,Dr. Michael Lee,Neurology,3/26/2026,Completed,204
+A257,P004,Dr. Emily Watson,General Medicine,3/8/2026,Cancelled,155
+A258,P012,Dr. James Carter,Neurology,3/6/2026,No-Show,132
+A259,P091,Dr. Emily Watson,Psychiatry and Mental Health,3/21/2026,Cancelled,126
+A260,P049,Dr. James Carter,Cardiology,3/26/2026,No-Show,163
+A261,P093,Dr. David Park,Neurology,3/30/2026,Completed,100
+A262,P019,Dr. Emily Watson,Dermatology,3/10/2026,No-Show,127
+A263,P022,Dr. James Carter,Orthopedics,3/19/2026,Cancelled,213
+A264,P001,Dr. Michael Lee,Dermatology,3/21/2026,No-Show,212
+A265,P081,Dr. Michael Lee,Neurology,3/28/2026,Cancelled,97
+A266,P087,Dr. Sarah Kim,Psychiatry and Mental Health,3/16/2026,Completed,221
+A267,P040,Dr. David Park,Orthopedics,3/30/2026,Completed,283
+A268,P007,Dr. David Park,Emergency Medicine,3/9/2026,Completed,64
+A269,P057,Dr. David Park,Orthopedics,3/1/2026,No-Show,154
+A270,P041,Dr. David Park,Psychiatry and Mental Health,3/5/2026,No-Show,289
+A271,P098,Dr. Michael Lee,Dermatology,3/28/2026,Completed,203
+A272,P064,Dr. Sarah Kim,Dermatology,3/29/2026,No-Show,128
+A273,P096,Dr. James Carter,Physical Medicine and Rehabilitation,3/23/2026,Cancelled,201
+A274,P072,Dr. Michael Lee,Physical Medicine and Rehabilitation,3/21/2026,Completed,91
+A275,P042,Dr. David Park,Orthopedics,3/11/2026,Completed,102
+A276,P001,Dr. James Carter,General Medicine,3/26/2026,No-Show,201
+A277,P076,Dr. David Park,General Medicine,3/8/2026,Completed,85
+A278,P012,Dr. David Park,General Medicine,3/13/2026,Cancelled,74
+A279,P081,Dr. Michael Lee,General Medicine,3/6/2026,Cancelled,220
+A280,P081,Dr. Sarah Kim,Dermatology,3/23/2026,Cancelled,84
+A281,P008,Dr. Michael Lee,Orthopedics,3/4/2026,No-Show,198
+A282,P013,Dr. David Park,General Medicine,3/19/2026,Cancelled,192
+A283,P064,Dr. David Park,Cardiology,3/7/2026,Cancelled,161
+A284,P048,Dr. Emily Watson,General Medicine,3/10/2026,Completed,131
+A285,P073,Dr. David Park,Pharmacy,3/10/2026,Cancelled,185
+A286,P035,Dr. Michael Lee,Psychiatry and Mental Health,3/19/2026,No-Show,134
+A287,P016,Dr. James Carter,Psychiatry and Mental Health,3/3/2026,No-Show,192
+A288,P020,Dr. David Park,Physical Medicine and Rehabilitation,3/2/2026,No-Show,68
+A289,P090,Dr. Emily Watson,Pharmacy,3/10/2026,No-Show,185
+A290,P056,Dr. Sarah Kim,Dermatology,3/15/2026,Completed,194
+A291,P061,Dr. Emily Watson,Orthopedics,3/23/2026,Cancelled,139
+A292,P018,Dr. Emily Watson,Psychiatry and Mental Health,3/13/2026,No-Show,138
+A293,P025,Dr. David Park,Neurology,3/26/2026,Completed,96
+A294,P067,Dr. Sarah Kim,Psychiatry and Mental Health,3/25/2026,No-Show,121
+A295,P012,Dr. Sarah Kim,Emergency Medicine,3/8/2026,No-Show,283
+A296,P021,Dr. David Park,Oncology,3/29/2026,Completed,184
+A297,P020,Dr. Michael Lee,Oncology,3/13/2026,Cancelled,234
+A298,P056,Dr. Emily Watson,General Medicine,3/24/2026,Cancelled,215
+A299,P058,Dr. Sarah Kim,Cardiology,3/19/2026,No-Show,125
+A300,P066,Dr. Emily Watson,Physical Medicine and Rehabilitation,3/2/2026,Cancelled,239
+A301,P045,Dr. Michael Lee,Pharmacy,3/29/2026,Cancelled,150
+A302,P065,Dr. David Park,Neurology,3/12/2026,No-Show,136
+A303,P008,Dr. Sarah Kim,Emergency Medicine,3/26/2026,Cancelled,293
+A304,P033,Dr. David Park,Oncology,3/29/2026,No-Show,92
+A305,P050,Dr. Sarah Kim,Dermatology,3/28/2026,Completed,150
+A306,P023,Dr. James Carter,Cardiology,3/18/2026,Cancelled,170
+A307,P077,Dr. David Park,Neurology,3/3/2026,Cancelled,71
+A308,P087,Dr. Emily Watson,Orthopedics,3/3/2026,Cancelled,116
+A309,P026,Dr. Emily Watson,Pharmacy,3/11/2026,No-Show,267
+A310,P090,Dr. Sarah Kim,Emergency Medicine,3/17/2026,Cancelled,69
+A311,P047,Dr. Sarah Kim,Oncology,3/23/2026,Cancelled,186
+A312,P043,Dr. Sarah Kim,Dermatology,3/4/2026,Completed,264
+A313,P098,Dr. Sarah Kim,Emergency Medicine,3/17/2026,No-Show,263
+A314,P001,Dr. David Park,Pharmacy,3/4/2026,Completed,102
+A315,P006,Dr. James Carter,Cardiology,3/30/2026,No-Show,251
+A316,P002,Dr. Michael Lee,Psychiatry and Mental Health,3/8/2026,Cancelled,107
+A317,P022,Dr. Emily Watson,Cardiology,3/15/2026,Cancelled,159
+A318,P009,Dr. Michael Lee,Emergency Medicine,3/16/2026,Completed,179
+A319,P064,Dr. Sarah Kim,General Medicine,3/1/2026,Cancelled,157
+A320,P091,Dr. James Carter,Cardiology,3/3/2026,Completed,170
+A321,P082,Dr. Sarah Kim,Dermatology,3/3/2026,Completed,92
+A322,P041,Dr. Michael Lee,General Medicine,3/28/2026,Cancelled,92
+A323,P080,Dr. James Carter,Oncology,3/19/2026,Cancelled,95
+A324,P004,Dr. Michael Lee,Cardiology,3/8/2026,No-Show,117
+A325,P075,Dr. Michael Lee,Psychiatry and Mental Health,3/1/2026,No-Show,178
+A326,P088,Dr. Michael Lee,Orthopedics,3/24/2026,Cancelled,222
+A327,P029,Dr. James Carter,General Medicine,3/12/2026,Completed,196
+A328,P005,Dr. James Carter,Pharmacy,3/21/2026,Completed,96
+A329,P023,Dr. James Carter,Dermatology,3/9/2026,Completed,204
+A330,P025,Dr. Sarah Kim,Psychiatry and Mental Health,3/9/2026,Cancelled,161
+A331,P020,Dr. James Carter,Dermatology,3/10/2026,Completed,296
+A332,P086,Dr. Michael Lee,Psychiatry and Mental Health,3/21/2026,Cancelled,216
+A333,P100,Dr. Michael Lee,Physical Medicine and Rehabilitation,3/10/2026,Completed,196
+A334,P044,Dr. Sarah Kim,Emergency Medicine,3/4/2026,Completed,239
+A335,P033,Dr. David Park,Physical Medicine and Rehabilitation,3/6/2026,Completed,158
+A336,P072,Dr. David Park,Psychiatry and Mental Health,3/17/2026,Completed,240
+A337,P014,Dr. David Park,Psychiatry and Mental Health,3/11/2026,No-Show,298
+A338,P016,Dr. Emily Watson,Cardiology,3/21/2026,No-Show,256
+A339,P008,Dr. Emily Watson,Dermatology,3/15/2026,Completed,191
+A340,P079,Dr. Michael Lee,Cardiology,3/10/2026,Cancelled,91
+A341,P064,Dr. Emily Watson,Psychiatry and Mental Health,3/27/2026,Cancelled,84
+A342,P100,Dr. Emily Watson,Psychiatry and Mental Health,3/8/2026,Cancelled,74
+A343,P017,Dr. James Carter,Pharmacy,3/29/2026,Completed,131
+A344,P003,Dr. David Park,Psychiatry and Mental Health,3/28/2026,No-Show,67
+A345,P071,Dr. Sarah Kim,Physical Medicine and Rehabilitation,3/21/2026,Cancelled,169
+A346,P004,Dr. Emily Watson,Cardiology,3/8/2026,No-Show,165
+A347,P052,Dr. David Park,Pharmacy,3/13/2026,Completed,147
+A348,P053,Dr. Emily Watson,Oncology,3/14/2026,Completed,166
+A349,P085,Dr. Emily Watson,Neurology,3/9/2026,No-Show,242
+A350,P026,Dr. Michael Lee,Cardiology,3/19/2026,Completed,111
